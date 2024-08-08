@@ -1,0 +1,48 @@
+{
+  "profesores": [
+    {
+      "nombre": "matute",
+      "apellido": "gonalez",
+      "materias": [
+        {
+          "nombre": " cursos de programacion desde cero "
+        },
+        {
+          "nombre ": "react"
+        },
+        {
+          "nombre ": "JS"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "ayelen",
+      "apellido": "De Gonzalez",
+      "promedio": "9.9"
+    },
+    {
+      "nombre": "alma",
+      "apellido": " Gonzalez",
+      "promedio": "9.9"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre ": "node desde cero ",
+      "duracion": "segun tus ganas de aprender",
+      "dificultad": "facil"
+    },
+    {
+      "nombre ": "react desde cero ",
+      "duracion": "segun tus ganas de aprender",
+      "dificultad": "facil"
+    },
+    {
+      "nombre ": "docker desde cero ",
+      "duracion": "segun tus ganas de aprender",
+      "dificultad": "facil"
+    }
+  ]
+}
